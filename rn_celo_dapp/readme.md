@@ -15,7 +15,7 @@ cd in to this folder "rn_celo_dapp" through your working terminal
 
 ``` yarn install ```
 
-> After every "yarn install" the following code resets, hence changes to be done manually everytime.
+> NOTE: After every "yarn install" the following code resets, hence changes to be done manually everytime.
 
 
 ### For android
@@ -73,7 +73,7 @@ WalletConnect use [react-context](https://reactjs.org/docs/context.html) to pass
 ## What next?
 Put tutorial link: walkthrough setting smart contract and connecting using services.  
 Test for more android devices.  
-Debug for ios devices.
+Develop for ios devices (NOT TESTED YET)
 
 
 ## debug
